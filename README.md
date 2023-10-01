@@ -1,7 +1,7 @@
 ![Master Head](https://cdn.wallpapersafari.com/89/75/7ORakF.jpg)
 <h1 align="center">Hi 👋, I'm Avinash Kumar Srivastava</h1>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
-<h3 align="center">As a highly skilled professional with expertise in Data Structures and Algorithms (DSA), Backend Development with Django Rest Frameworks, Cloud Computing, and the Internet of Things (IoT), I bring a strong understanding of DSA and its practical applications to any project.</h3>
+<h3 align="center">As a highly skilled professional with expertise in Data Structures and Algorithms (DSA), Backend Development with Django Rest Frameworks and Machine Learning, I bring a strong understanding of DSA and its practical applications to any project.</h3>
 
 
 - 🌱 I’m currently learning **Deep Learning**
@@ -9,8 +9,6 @@
 - 💬 Ask me about **Java, Python, C, DSA, Django Rest Framework, Machine Learning**
 
 - 📫 How to reach me **email-: avinashsr1605@gmail.com Linkedin profile-: https://www.linkedin.com/in/avinash-kumar-srivastava-1b9775254/**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kcIkVtpdX2rHp-QJf329DCgGV1z5QG39/view?usp=sharing](https://drive.google.com/file/d/1kcIkVtpdX2rHp-QJf329DCgGV1z5QG39/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
