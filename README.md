@@ -1,4 +1,4 @@
-![Master Head](https://www.timesys.com/wp-content/uploads/vulnerability-management-IoT-embedded-systems.jpg)
+![Master Head](https://cdn.wallpapersafari.com/89/75/7ORakF.jpg)
 <h1 align="center">Hi 👋, I'm Avinash Kumar Srivastava</h1>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <h3 align="center">As a highly skilled professional with expertise in Data Structures and Algorithms (DSA), Backend Development with Django Rest Frameworks, Cloud Computing, and the Internet of Things (IoT), I bring a strong understanding of DSA and its practical applications to any project.</h3>
