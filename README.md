@@ -1,6 +1,6 @@
 ![Master Head](https://cdn.wallpapersafari.com/89/75/7ORakF.jpg)
 <h1 align="center">Hi 👋, I'm Avinash Kumar Srivastava</h1>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
 <h3 align="center">As a highly skilled professional with expertise in Data Structures and Algorithms (DSA),Python Developer with Machine Learning and GenAI, I bring a strong understanding of DSA and its practical applications to any project. I am also Azure AI Fundamentals Certified</h3>
 
 
